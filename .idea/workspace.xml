@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2bc3ddd7-7a9d-4f65-9771-ee6a158debfc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/selenium_java_4_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assessment/Assessment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningSelenium.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module7_Assingment/Module7_Assingment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module7_Assingment/src/Assingment/A001LocatingLinks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module7_Assingment/src/Assingment/A002SeleceMultipleitem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module7_Assingment/src/Assingment/A003WindowsAlerts_PopUps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module7_Assingment/src/Assingment/A004RegisterUrSlfGmail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module7_Assingment/src/Assingment/A005Radioubutton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module7_Assingment/src/Assingment/A006FacebookImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module7_Assingment/src/Assingment/A007DropdownGuru99.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module7_Assingment/src/Assingment/A008Mousehoverevent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module7_Assingment/src/Assingment/A008_1_KeyboardEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module7_Assingment/src/Assingment/A009handleAlertguru99.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module7_Assingment/src/Assingment/A010FindTotalHyperLinkGuru99.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module7_Assingment/src/util/DriveConnectAsingment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumSdet/SdetPractice/SdetPractice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumSdet/SdetPractice/src/basicselenium/Sdet_000_practicedemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumSdet/SdetPractice/src/basicselenium/Sdet_001_practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumSdet/SdetPractice/src/basicselenium/Sdet_002_CssSelector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumSdet/SdetPractice/src/basicselenium/Sdet_002_CssSelector2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumSdet/SdetPractice/src/basicselenium/Sdet_Day24_003_Xpath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumSdet/SdetPractice/src/basicselenium/Sdet_Day26_003_WebdriverMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumSdet/SdetPractice/src/basicselenium/Sdet_Day26_004_WebdriverMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumSdet/SdetPractice/src/basicselenium/Sdet_Day26_005_Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumSdet/SdetPractice/src/basicselenium/Sdet_Day27_Wait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumSdet/SdetPractice/src/basicselenium/Sdet_Day28_Navigate_Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumSdet/SdetPractice/src/basicselenium/Sdet_Day28_Windowhandles_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumSdet/SdetPractice/src/basicselenium/Sdet_Day28_Windowshandles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumSdet/SdetPractice/src/basicselenium/Sdet_Day29_Alertbox_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumSdet/SdetPractice/src/basicselenium/Sdet_Day29_Alertbox_Without_Switchto_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumSdet/SdetPractice/src/basicselenium/Sdet_Day29_Checkbox_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumSdet/SdetPractice/src/basicselenium/Sdet_Day30_Frame_Iframe_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumSdet/SdetPractice/src/basicselenium/Sdet_Day31_DropDownByBootStrap_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumSdet/SdetPractice/src/basicselenium/Sdet_Day31_DropDownBySelect_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumSdet/SdetPractice/src/basicselenium/Sdet_Day31_HiddenDropdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumSdet/SdetPractice/src/basicselenium/Sdet_Day31_Practice_Assingment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumSdet/SdetPractice/src/util/DriverConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumSdet/SeleniumSdet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DatePickerDemo/B0014_DatePicker_demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EventMouseKeyboard/E001_Date_Pickuper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EventMouseKeyboard/E001_KeyBoardEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EventMouseKeyboard/E001_MouseEvent_01_DragAndDrop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticForm/PracticeForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Switching/B0011_SwitchAlertDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Switching/B0012_AlertWithExplicitWait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Switching/B0012_SwtichAlertGuru99.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Switching/F001_FrameSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Switching/W001_WindowSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/B0010Hw_Demo_QA_Name_edit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/B0010_Demo_Qa_Form_Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/B0015_Screenshotdemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/B001_BrowserDemo_Chrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/B002_BrowserDemoFirefox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/B003_LoginTestFacebook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/B004_TitleCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/B005_LoginTestInstagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/B006_FbReg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/B006_WebTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/B007_FormPraticeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/B007_Webtable_stringname.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/B008_LinkTextDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/B008_TopsErp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/B009Hw_FetchTable_Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/B009_Tagname.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/B010_ScrollDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/Addjarsin_projectinstruction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/Driveconect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/SeleniumMisconception" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util/Addjarsin_projectinstruction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util/Driveconect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util/SeleniumMisconception" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util1/Addjarsin_projectinstruction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util1/Driveconect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util1/SeleniumMisconception" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Nikum8049&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Nikum8049/Assessment.git&quot;,
+    &quot;accountId&quot;: &quot;85360c3e-64fd-4271-a499-5ac137a84ac6&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2jmCXG3SbgpeZRyeVeym7FHmznt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.A001LocatingLinks.executor": "Run",
+    "Application.A002SeleceMultipleitem.executor": "Run",
+    "Application.A003WindowsAlerts_PopUps.executor": "Run",
+    "Application.A004RegisterUrSlfGmail.executor": "Run",
+    "Application.A005Radioubutton.executor": "Run",
+    "Application.A006FacebookImage.executor": "Run",
+    "Application.A007DropdownGuru99.executor": "Run",
+    "Application.A008Mousehoverevent.executor": "Run",
+    "Application.A008_1_KeyboardEvent.executor": "Run",
+    "Application.A009handleAlertguru99.executor": "Run",
+    "Application.A010FindTotalHyperLinkGuru99.executor": "Run",
+    "Application.B0010Hw_Demo_QA_Name_edit.executor": "Run",
+    "Application.B0010_Demo_Qa_Form_Demo.executor": "Run",
+    "Application.B0011_SwitchAlertDemo.executor": "Run",
+    "Application.B0012_SwtichAlertGuru99.executor": "Run",
+    "Application.B0013_SwitchAlertDemo1.executor": "Run",
+    "Application.B0014_DatePicker_demo.executor": "Run",
+    "Application.B0014_DatepIcker_demo.executor": "Run",
+    "Application.B0015_Screenshotdemo.executor": "Run",
+    "Application.B001_BrowserDemo.executor": "Run",
+    "Application.B002_BrowserDemo.executor": "Run",
+    "Application.B003_BrowserDemoFirefox.executor": "Run",
+    "Application.B003_LoginTest.executor": "Run",
+    "Application.B003_TitleCheck.executor": "Run",
+    "Application.B005_LoginTestInstagram.executor": "Run",
+    "Application.B006_FbReg.executor": "Run",
+    "Application.B006_WebTable.executor": "Run",
+    "Application.B007_FormPraticeDemo.executor": "Run",
+    "Application.B007_Webtable_stringname.executor": "Run",
+    "Application.B008_LinkTextDemo.executor": "Run",
+    "Application.B008_TopsErp.executor": "Run",
+    "Application.B009Hw_FetchTable_Demo.executor": "Run",
+    "Application.B009_Tagname.executor": "Run",
+    "Application.B010_ScrollDemo.executor": "Run",
+    "Application.E001_Date_Pickuper.executor": "Run",
+    "Application.E001_Event_01.executor": "Run",
+    "Application.F001_FrameSwitch.executor": "Run",
+    "Application.FormFillUsing_Selenium.executor": "Run",
+    "Application.K_001_KeyBoardEvent.executor": "Run",
+    "Application.PracticeForm.executor": "Run",
+    "Application.Sdet_000_practicedemo.executor": "Run",
+    "Application.Sdet_001_practice.executor": "Run",
+    "Application.Sdet_002_CssSelector.executor": "Run",
+    "Application.Sdet_002_CssSelector2.executor": "Run",
+    "Application.Sdet_Day24_003_Xpath.executor": "Run",
+    "Application.Sdet_Day26_003_WebdriverMethod.executor": "Run",
+    "Application.Sdet_Day26_004_WebdriverMethod.executor": "Run",
+    "Application.Sdet_Day26_005_Practice.executor": "Run",
+    "Application.Sdet_Day27_Wait.executor": "Run",
+    "Application.Sdet_Day28_Navigate_Method.executor": "Run",
+    "Application.Sdet_Day28_Windowhandles_01.executor": "Run",
+    "Application.Sdet_Day28_Windowshandles.executor": "Run",
+    "Application.Sdet_Day29_Alertbox_01.executor": "Run",
+    "Application.Sdet_Day29_Alertbox_Without_Switchto_01.executor": "Run",
+    "Application.Sdet_Day29_AlertsPopup_01.executor": "Run",
+    "Application.Sdet_Day29_Checkbox_01.executor": "Run",
+    "Application.Sdet_Day30_Frame_Iframe_01.executor": "Run",
+    "Application.Sdet_Day31_DropDownByBootStrap_01.executor": "Run",
+    "Application.Sdet_Day31_DropDownBySelect_01.executor": "Run",
+    "Application.Sdet_Day31_HiddenDropdown.executor": "Run",
+    "Application.Sdet_Day31_Practice_Assingment.executor": "Run",
+    "Application.W001_WindowSwitch.executor": "Run",
+    "Application.demoQaDelete.executor": "Run",
+    "Application.demoQaEdit.executor": "Run",
+    "Application.techlistic.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/selenium-java-4.25.0",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\LearningSelenium\Assessment\src" />
+      <recent name="E:\LearningSelenium\Assessment\src\demoQa" />
+      <recent name="E:\LearningSelenium\Module7_Assingment\src" />
+      <recent name="E:\LearningSelenium\Module7_Assingment" />
+      <recent name="E:\LearningSelenium" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2bc3ddd7-7a9d-4f65-9771-ee6a158debfc" name="Changes" comment="" />
+      <created>1721982908121</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721982908121</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/basic/B006_WebTable.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

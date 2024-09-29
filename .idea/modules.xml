@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Assessment/Assessment.iml" filepath="$PROJECT_DIR$/Assessment/Assessment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearningSelenium.iml" filepath="$PROJECT_DIR$/LearningSelenium.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module7_Assingment/Module7_Assingment.iml" filepath="$PROJECT_DIR$/Module7_Assingment/Module7_Assingment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SeleniumSdet/SdetPractice/SdetPractice.iml" filepath="$PROJECT_DIR$/SeleniumSdet/SdetPractice/SdetPractice.iml" />
+    </modules>
+  </component>
+</project>
