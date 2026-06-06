@@ -69,7 +69,7 @@ public class Sdet_Day24_003_Xpath {
          //xpath with contains () method-> Just provide attribute and half text of that like below Search Amazon.in i provide only Ama
         driver.findElement(By.xpath("//input[contains(@placeholder,'Ama')]")).sendKeys("Hello");
 
-         //xpatch with starts-with()
+         //xpath with starts-with()
         driver.findElement(By.xpath("//input[starts-with(@placeholder,'Sea')]")).sendKeys("Goto hell");
 
        //  xpath with chained xpath that parent - to child and child to parents

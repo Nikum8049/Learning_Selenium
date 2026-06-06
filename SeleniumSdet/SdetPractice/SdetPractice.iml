@@ -186,5 +186,6 @@
         </SOURCES>
       </library>
     </orderEntry>
+    <orderEntry type="library" name="selenium-java-4.26" level="project" />
   </component>
 </module>

@@ -13,6 +13,7 @@ import java.time.Duration;
 public class A004RegisterUrSlfGmail {
     public static void main(String[] args) {
         WebDriver driver= Driveconect.connect("https://accounts.google.com/lifecycle/steps/signup/name?ddm=0&dsh=S2116822803:1727512672054379&flowEntry=SignUp&flowName=GlifWebSignIn&TL=APps6ebopWxVdJilptqqymv8jciP_UcwJ_RFXvU-Df6Uk4HjlPkhvfJz74nx1aH7");
+
         //driver.findElement(By.linkText("Create an account")).click();
         driver.manage().window().maximize();
         driver.findElement(By.xpath("//span[@class='VfPpkd-vQzf8d']")).click();

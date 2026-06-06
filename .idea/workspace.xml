@@ -5,88 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2bc3ddd7-7a9d-4f65-9771-ee6a158debfc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/selenium_java_4_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assessment/Assessment.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningSelenium.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module7_Assingment/Module7_Assingment.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module7_Assingment/src/Assingment/A001LocatingLinks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module7_Assingment/src/Assingment/A002SeleceMultipleitem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module7_Assingment/src/Assingment/A003WindowsAlerts_PopUps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module7_Assingment/src/Assingment/A004RegisterUrSlfGmail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module7_Assingment/src/Assingment/A005Radioubutton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module7_Assingment/src/Assingment/A006FacebookImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module7_Assingment/src/Assingment/A007DropdownGuru99.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module7_Assingment/src/Assingment/A008Mousehoverevent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module7_Assingment/src/Assingment/A008_1_KeyboardEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module7_Assingment/src/Assingment/A009handleAlertguru99.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module7_Assingment/src/Assingment/A010FindTotalHyperLinkGuru99.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module7_Assingment/src/util/DriveConnectAsingment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeleniumSdet/SdetPractice/SdetPractice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeleniumSdet/SdetPractice/src/basicselenium/Sdet_000_practicedemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeleniumSdet/SdetPractice/src/basicselenium/Sdet_001_practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeleniumSdet/SdetPractice/src/basicselenium/Sdet_002_CssSelector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeleniumSdet/SdetPractice/src/basicselenium/Sdet_002_CssSelector2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeleniumSdet/SdetPractice/src/basicselenium/Sdet_Day24_003_Xpath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeleniumSdet/SdetPractice/src/basicselenium/Sdet_Day26_003_WebdriverMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeleniumSdet/SdetPractice/src/basicselenium/Sdet_Day26_004_WebdriverMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeleniumSdet/SdetPractice/src/basicselenium/Sdet_Day26_005_Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeleniumSdet/SdetPractice/src/basicselenium/Sdet_Day27_Wait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeleniumSdet/SdetPractice/src/basicselenium/Sdet_Day28_Navigate_Method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeleniumSdet/SdetPractice/src/basicselenium/Sdet_Day28_Windowhandles_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeleniumSdet/SdetPractice/src/basicselenium/Sdet_Day28_Windowshandles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeleniumSdet/SdetPractice/src/basicselenium/Sdet_Day29_Alertbox_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeleniumSdet/SdetPractice/src/basicselenium/Sdet_Day29_Alertbox_Without_Switchto_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeleniumSdet/SdetPractice/src/basicselenium/Sdet_Day29_Checkbox_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeleniumSdet/SdetPractice/src/basicselenium/Sdet_Day30_Frame_Iframe_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeleniumSdet/SdetPractice/src/basicselenium/Sdet_Day31_DropDownByBootStrap_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeleniumSdet/SdetPractice/src/basicselenium/Sdet_Day31_DropDownBySelect_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeleniumSdet/SdetPractice/src/basicselenium/Sdet_Day31_HiddenDropdown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeleniumSdet/SdetPractice/src/basicselenium/Sdet_Day31_Practice_Assingment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeleniumSdet/SdetPractice/src/util/DriverConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeleniumSdet/SeleniumSdet.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DatePickerDemo/B0014_DatePicker_demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EventMouseKeyboard/E001_Date_Pickuper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EventMouseKeyboard/E001_KeyBoardEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EventMouseKeyboard/E001_MouseEvent_01_DragAndDrop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticForm/PracticeForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Switching/B0011_SwitchAlertDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Switching/B0012_AlertWithExplicitWait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Switching/B0012_SwtichAlertGuru99.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Switching/F001_FrameSwitch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Switching/W001_WindowSwitch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/B0010Hw_Demo_QA_Name_edit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/B0010_Demo_Qa_Form_Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/B0015_Screenshotdemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/B001_BrowserDemo_Chrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/B002_BrowserDemoFirefox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/B003_LoginTestFacebook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/B004_TitleCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/B005_LoginTestInstagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/B006_FbReg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/B006_WebTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/B007_FormPraticeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/B007_Webtable_stringname.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/B008_LinkTextDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/B008_TopsErp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/B009Hw_FetchTable_Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/B009_Tagname.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/B010_ScrollDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/Addjarsin_projectinstruction" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/Driveconect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/SeleniumMisconception" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util/Addjarsin_projectinstruction" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util/Driveconect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util/SeleniumMisconception" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util1/Addjarsin_projectinstruction" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util1/Driveconect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util1/SeleniumMisconception" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/selenium_java_4_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assessment/Assessment.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Assessment/Assessment.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LearningSelenium.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LearningSelenium.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module7_Assingment/Module7_Assingment.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Module7_Assingment/Module7_Assingment.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumSdet/SdetPractice/SdetPractice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumSdet/SdetPractice/SdetPractice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumSdet/SdetPractice/src/basicselenium/Sdet_Day24_003_Xpath.java" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumSdet/SdetPractice/src/basicselenium/Sdet_Day24_003_Xpath.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -198,10 +124,10 @@
     "Application.techlistic.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/selenium-java-4.25.0",
-    "project.structure.last.edited": "Modules",
+    "last_opened_file_path": "E:/selenium-java-4.26.0",
+    "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.pluginManager"
@@ -209,11 +135,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\LearningSelenium\DemoInterview" />
       <recent name="E:\LearningSelenium\Assessment\src" />
       <recent name="E:\LearningSelenium\Assessment\src\demoQa" />
       <recent name="E:\LearningSelenium\Module7_Assingment\src" />
       <recent name="E:\LearningSelenium\Module7_Assingment" />
-      <recent name="E:\LearningSelenium" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

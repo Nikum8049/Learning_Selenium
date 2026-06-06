@@ -109,6 +109,6 @@
         <jarDirectory url="file://$MODULE_DIR$/../selenium-java-4.23.1" recursive="false" type="SOURCES" />
       </library>
     </orderEntry>
-    <orderEntry type="library" exported="" name="selenium-java-4.25" level="project" />
+    <orderEntry type="library" name="selenium-java-4.26" level="project" />
   </component>
 </module>
